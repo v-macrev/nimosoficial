@@ -1,3 +1,9 @@
+@font-face {
+  font-family: ;
+  src: url(images/simply_rounded/Simply\ Rounded.ttf) format(truetype);
+}
+
+
 .u-font-montserrat.u-custom-font {
   font-family: 'Simply Rounded', sans-serif !important;
 }
