@@ -63,13 +63,13 @@
   margin-left: 20px;
   font-size: 2.25rem;
   letter-spacing: normal;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 .u-header .u-nav-2 {
   font-size: 1.25rem;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 .u-header .u-image-2 {
@@ -337,13 +337,13 @@
 
 .u-section-1 .u-text-1 {
   font-size: 2.25rem;
-  font-weight: 700;
+  font-weight: 500;
   margin: -367px auto 0 185px;
 }
 
 .u-section-1 .u-text-2 {
-  font-size: 1.125rem;
-  font-weight: 700;
+  font-size: 1.3rem;
+  font-weight: 600;
   margin: 28px 726px 187px 77px;
 }
 
