@@ -1680,3 +1680,29 @@
     margin-right: 27px;
   }
 }
+
+video {
+  width: 100%;
+}
+#playlist {
+  width: 100%;
+  margin-top: 10%;
+  padding: 0;
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+.active a {
+  color: #5db0e6;
+  text-decoration: none;
+}
+li a {
+  color: #eeeedd;
+  background: #333;
+  padding: 12px;
+  display: block;
+}
+li a:hover {
+  text-decoration: none;
+}
